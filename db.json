@@ -1,0 +1,99 @@
+{
+  "dictionary": [
+    {
+      "transcription": "кхан",
+      "translate": ["начало", "один"],
+      "id": "#khan",
+      "word": "KAN"
+    },
+    {
+      "transcription": "ода",
+      "translate": ["дракон"],
+      "id": "#oda",
+      " word": "ODA"
+    },
+    {
+      "transcription": "рхуу",
+      "translate": ["огонь"],
+      "id": "#rhuu",
+      "word": "Z7"
+    },
+    {
+      "transcription": "уория",
+      "translate": ["история", "рассказ"],
+      "id": "#uoriya",
+      "word": "UORIY"
+    },
+    {
+      "transcription": "хурун",
+      "translate": ["молот"],
+      "id": "#hurun",
+      "word": "HURUN"
+    },
+    {
+      "transcription": "цзан",
+      "translate": ["пенся", "песнь"],
+      "id": "#zsan",
+      "word": "CAN"
+    },
+    {
+      "transcription": "феррхуу",
+      "translate": ["рассвет"],
+      "id": "#ferrhuu",
+      "word": "FERZUU"
+    },
+    {
+      "transcription": "исэ",
+      "translate": ["остров"],
+      "id": "#isae",
+      "word": "IS8"
+    },
+    {
+      "transcription": "снае",
+      "translate": ["снег"],
+      "id": "#snae",
+      "word": "SNA8"
+    },
+    {
+      "transcription": "домэ",
+      "translate": ["дом", "страна"],
+      "id": "#dome",
+      "word": "DOM8"
+    },
+    {
+      "transcription":"цзард",
+      "translate":[
+        "песок"
+      ],
+      "id":"#zsard",
+      "word":"ZARD"
+    },
+    {
+      "transcription":"гхалар",
+      "translate":[
+        "гора",
+        "горы"
+      ],
+      "id":"#ghalar",
+      "word":"GALAR"
+    },
+    {
+      "transcription":"гхалари",
+      "translate":[
+        "горная цепь",
+        "хребет"
+      ],
+      "id":"#ghalari",
+      "word":"GALARI"
+    },
+    {
+      "transcription":"эн",
+      "translate":[
+        "мама",
+        "мать"
+      ],
+      "id":"#aen",
+      "word":"8N"
+    }
+  ]
+}
